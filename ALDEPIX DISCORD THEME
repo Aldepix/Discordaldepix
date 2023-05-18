@@ -4,24 +4,24 @@
     * @author Aldepix #9446
 **/
 
-______________________________________________________________________________________________________________________
+
 /** ESTRUCTURA **/ 
 @import url (https://raw.githubusercontent.com/moistp1ckle/GitHub_Dark/main/source.css);
-______________________________________________________________________________________________________________________
+
 /** TEMA **/  Al menos hay que elegir uno quitando los (/** **/) de inicio y fin y solo dejando el que quieres.
 @import url (https://raw.githubusercontent.com/discord-extensions/essence/main/src/themes/essence-default.css);
 /** @import url (https://discord-extensions.github.io/essence/src/themes/nord.css); **/ 
 /** @import url (https://raw.githubusercontent.com/discord-extensions/essence/main/src/themes/dracula.css); **/ 
 /** @import url (https://raw.githubusercontent.com/discord-extensions/essence/main/src/themes/midnight-mars.css); **/ 
 /** @import url (https://raw.githubusercontent.com/discord-extensions/essence/main/src/themes/nebula.css); **/ 
-______________________________________________________________________________________________________________________
+
 /** ICONOS PERSONALIZADOS **/
 @import url (https://discord-extensions.github.io/essence/src/vendors/iconsax-discord.css);
-______________________________________________________________________________________________________________________
+
 /** CARPETAS MINIMALISTAS **/
 @import url (https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css);
-______________________________________________________________________________________________________________________
+
 /** EN LINEA; AUSENTE... COMO CIRCULO EN EL PERFIL Y SI QUIERES CON LOS ROLES **/
 @import url (https://objectiveslayer.github.io/ComfyGray/addons/radial%20status%20icons%20by%20Gibbu%231211.css);
 @import url (https://objectiveslayer.github.io/ComfyGray/addons/roles.css);
-______________________________________________________________________________________________________________________
+
